@@ -28,6 +28,7 @@ import {
 
 export const skills = [
     {
+        id:0,
         imageUrl: css,
         name: "CSS",
         type: "Frontend",
@@ -38,21 +39,25 @@ export const skills = [
     //     type: "Backend",
     // },
     {
+        id:1,
         imageUrl: git,
         name: "Git",
         type: "Version Control",
     },
     {
+        id:2,
         imageUrl: github,
         name: "GitHub",
         type: "Version Control",
     },
     {
+        id:3,
         imageUrl: html,
         name: "HTML",
         type: "Frontend",
     },
     {
+        id:4,
         imageUrl: javascript,
         name: "JavaScript",
         type: "Frontend",
@@ -63,11 +68,13 @@ export const skills = [
     //     type: "Database",
     // },
     {
+        id:5,
         imageUrl: motion,
         name: "Motion",
         type: "Animation",
     },
     {
+        id:6,
         imageUrl: mui,
         name: "Material-UI",
         type: "Frontend",
@@ -78,11 +85,13 @@ export const skills = [
     //     type: "Frontend",
     // },
     {
+        id:7,
         imageUrl: nodejs,
         name: "Node.js",
         type: "Backend",
     },
     {
+        id:8,
         imageUrl: react,
         name: "React",
         type: "Frontend",
@@ -98,6 +107,7 @@ export const skills = [
     //     type: "Frontend",
     // },
     {
+        id:9,
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",

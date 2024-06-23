@@ -17,6 +17,7 @@ const Home = () => {
     audioRef.current.volume = 0.4;
     audioRef.current.loop = true;
     const [isRotating , setIsRotating ] = useState(false);
+    // const [isRotating1 , setIsRotating1 ] = useState(true);
     const [currentStage , setCurrentStage] = useState(1);
 
     const [isPlayingMusic , setIsPlayingMusic] = useState(false);
